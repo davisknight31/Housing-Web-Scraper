@@ -47,13 +47,13 @@ from selenium.webdriver.common.proxy import Proxy, ProxyType
 
 
 # responses = []
-# headers = {'User-Agent': 'Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Microsoft; Lumia 640 XL LTE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Mobile Safari/537.36 Edge/12.10166'}
-# response = requests.get(url)
+url = 'https://www.trulia.com/for_rent/Indianapolis,IN/'
+headers = {'User-Agent': 'Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Microsoft; Lumia 640 XL LTE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Mobile Safari/537.36 Edge/12.10166'}
+response = requests.get(url, headers=headers)
 
-# if response.status_code == 200:
-#     html_content = response.text
-#     print(html_content)
-#     soup = BeautifulSoup(html_content, 'lxml')
+if response.status_code == 200:
+    html_content = response.text
+    soup = BeautifulSoup(html_content, 'html.parser')
 #     apartment_links = soup.find_all(class_='PropertyCard__StyledLink-sc-2abac362-3')
 #     print(apartment_links)
 #     for link in apartment_links:
@@ -63,51 +63,51 @@ from selenium.webdriver.common.proxy import Proxy, ProxyType
 #     print("Failed to retrieve the webpage. Status code: {response.status_code}")
 
 
-options = Options()
-ua = UserAgent()
-user_agent = ua.random
-options.add_argument(f'--user-agent={user_agent}')
-base_url = 'https://www.homes.com/indianapolis-in/homes-for-rent/'         #https://www.homes.com/indianapolis-in/homes-for-rent/p2/
-driver = webdriver.Chrome(options=options)
+# options = Options()
+# ua = UserAgent()
+# user_agent = ua.random
+# options.add_argument(f'--user-agent={user_agent}')
+# base_url = 'https://www.homes.com/indianapolis-in/homes-for-rent/'         #https://www.homes.com/indianapolis-in/homes-for-rent/p2/
+# driver = webdriver.Chrome(options=options)
 
 
-driver.get(base_url)
-WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, '.paging')))
-page_source = driver.page_source
-soup = BeautifulSoup(page_source, 'html.parser')
-pager = soup.find('ol')
-pages = pager.find_all('li')
-page_numbers = []
-for page in pages:
-    link = page.find('a')
-    if link:
-        page_numbers.append(link.get('data-page'))
+# driver.get(base_url)
+# WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, '.paging')))
+# page_source = driver.page_source
+# soup = BeautifulSoup(page_source, 'html.parser')
+# pager = soup.find('ol')
+# pages = pager.find_all('li')
+# page_numbers = []
+# for page in pages:
+#     link = page.find('a')
+#     if link:
+#         page_numbers.append(link.get('data-page'))
 
-last_page = page_numbers[len(page_numbers) - 1]
-print(last_page)
-
-
-rental_links = []
-for i in range(int(last_page)):
-    paged_url = base_url + "p" + str(i) + "/"
-    driver.get(paged_url)
-    WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, '.for-rent-content-container')))
-    page_source = driver.page_source
-    soup = BeautifulSoup(page_source, 'html.parser')
-    links = soup.find_all(class_='for-rent-content-container')
-    for link in links:
-        anchors = link.find_all('a')
-        for anchor in anchors:
-            rental_links.append(anchor.get('href'))
-            # print(anchor.get('href'))
+# last_page = page_numbers[len(page_numbers) - 1]
+# print(last_page)
 
 
-print(rental_links)
+# rental_links = []
+# for i in range(int(last_page)):
+#     paged_url = base_url + "p" + str(i) + "/"
+#     driver.get(paged_url)
+#     WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, '.for-rent-content-container')))
+#     page_source = driver.page_source
+#     soup = BeautifulSoup(page_source, 'html.parser')
+#     links = soup.find_all(class_='for-rent-content-container')
+#     for link in links:
+#         anchors = link.find_all('a')
+#         for anchor in anchors:
+#             rental_links.append(anchor.get('href'))
+#             # print(anchor.get('href'))
 
-for rental_link in rental_links:
-    print(rental_link)
 
-driver.quit()
+# print(rental_links)
+
+# for rental_link in rental_links:
+#     print(rental_link)
+
+# driver.quit()
 
 # pages_list = []
 

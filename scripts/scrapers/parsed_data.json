@@ -1,0 +1,1181 @@
+{
+  "@context": "http://schema.org",
+  "@type": "CollectionPage",
+  "url": "https://www.homes.com/indianapolis-in/homes-for-rent/p15/",
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Renters",
+    "geographicArea": {
+      "@type": "Country",
+      "name": "United States"
+    }
+  },
+  "contentLocation": {
+    "containedInPlace": {
+      "@type": "State",
+      "name": "IN"
+    },
+    "@type": "Place",
+    "name": "Indianapolis, IN"
+  },
+  "mainEntity": {
+    "@type": "ItemList",
+    "numberOfItems": 32,
+    "itemListElement": [
+      {
+        "@type": "RealEstateListing",
+        "position": 1,
+        "image": "https://imagescdn.homes.com/i2/DsaXZxYuF4mKXiPR9RC20coN9PAnIJ86KObaGZAe-4Y/115/4012-s-mann-rd-indianapolis-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 778,
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": 1,
+          "numberOfBathroomsTotal": 1,
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 535.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4012 S Mann Rd",
+            "addressLocality": "Indianapolis",
+            "addressRegion": "IN",
+            "postalCode": "46221",
+            "@id": "https://www.homes.com/property/abbey-apartments-affordable-senior-housing-indianapolis-in/j52etkp59f02v/"
+          },
+          "@id": "https://www.homes.com/property/abbey-apartments-affordable-senior-housing-indianapolis-in/j52etkp59f02v/"
+        },
+        "url": "https://www.homes.com/property/abbey-apartments-affordable-senior-housing-indianapolis-in/j52etkp59f02v/",
+        "name": "4012 S Mann Rd, Indianapolis, IN 46221"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 2,
+        "image": "https://imagescdn.homes.com/i2/ey_kO04wWmA8D1bMBPfxCRE9oQwBL-5HigRX7OYN0FM/115/1450-n-college-ave-indianapolis-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "1050 - 1250",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "1 - 2",
+          "numberOfBathroomsTotal": 1,
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 670.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1450 N College Ave",
+            "addressLocality": "Indianapolis",
+            "addressRegion": "IN",
+            "postalCode": "46202",
+            "@id": "https://www.homes.com/property/college-manor-indianapolis-in/0vjzhbg487kqg/"
+          },
+          "@id": "https://www.homes.com/property/college-manor-indianapolis-in/0vjzhbg487kqg/"
+        },
+        "url": "https://www.homes.com/property/college-manor-indianapolis-in/0vjzhbg487kqg/",
+        "name": "1450 N College Ave, Indianapolis, IN 46202"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 3,
+        "image": "https://imagescdn.homes.com/i2/hzaJKCYKDQ40FQmo1g-eig5ZyYGwLf-OeE49Zoh-Fng/115/5500-emerson-way-indianapolis-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "1650 - 1850",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "SingleFamilyResidence",
+          "numberOfBedrooms": "2 - 3",
+          "numberOfBathroomsTotal": 2,
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 1335.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "5500 Emerson Way",
+            "addressLocality": "Indianapolis",
+            "addressRegion": "IN",
+            "postalCode": "46237",
+            "@id": "https://www.homes.com/property/coventry-park-village-indianapolis-in/qcr9cdj5dz7hw/"
+          },
+          "@id": "https://www.homes.com/property/coventry-park-village-indianapolis-in/qcr9cdj5dz7hw/"
+        },
+        "url": "https://www.homes.com/property/coventry-park-village-indianapolis-in/qcr9cdj5dz7hw/",
+        "name": "5500 Emerson Way, Indianapolis, IN 46237"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 4,
+        "image": "https://imagescdn.homes.com/i2/rsNWC0sMZFi5zxsnWi1U05wqU1Q7XtmDxwv1izaUeHA/115/4959-oakhurst-dr-indianapolis-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "925 - 1080",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": 1,
+          "numberOfBathroomsTotal": 1,
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 600.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4959 Oakhurst Dr",
+            "addressLocality": "Indianapolis",
+            "addressRegion": "IN",
+            "postalCode": "46254",
+            "@id": "https://www.homes.com/property/cambridge-commons-indianapolis-in/4696s85v51g92/"
+          },
+          "@id": "https://www.homes.com/property/cambridge-commons-indianapolis-in/4696s85v51g92/"
+        },
+        "url": "https://www.homes.com/property/cambridge-commons-indianapolis-in/4696s85v51g92/",
+        "name": "4959 Oakhurst Dr, Indianapolis, IN 46254"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 5,
+        "image": "https://imagescdn.homes.com/i2/YH-vaPzS3JWCKiaNV-U74U3PC04K2JE5jv_AaOa03d4/115/1309-n-pennsylvania-st-indianapolis-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "875 - 895",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": 0,
+          "numberOfBathroomsTotal": 1,
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 318.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1309 N Pennsylvania St",
+            "addressLocality": "Indianapolis",
+            "addressRegion": "IN",
+            "postalCode": "46202",
+            "@id": "https://www.homes.com/property/priscilla-on-pennsylvania-indianapolis-in/pstxrjwtn10s1/"
+          },
+          "@id": "https://www.homes.com/property/priscilla-on-pennsylvania-indianapolis-in/pstxrjwtn10s1/"
+        },
+        "url": "https://www.homes.com/property/priscilla-on-pennsylvania-indianapolis-in/pstxrjwtn10s1/",
+        "name": "1309 N Pennsylvania St, Indianapolis, IN 46202"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 6,
+        "image": "https://imagescdn.homes.com/i2/t7McxOKn_2x1WLsyO5Civ_sCPki4UrYNc12bwl0xyUA/115/2091-olivewood-dr-indianapolis-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "669 - 1145",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "0 - 2",
+          "numberOfBathroomsTotal": "1 - 2",
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 388.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "2091 Olivewood Dr",
+            "addressLocality": "Indianapolis",
+            "addressRegion": "IN",
+            "postalCode": "46219",
+            "@id": "https://www.homes.com/property/olivewood-indianapolis-in/9cs712fmq5qkm/"
+          },
+          "@id": "https://www.homes.com/property/olivewood-indianapolis-in/9cs712fmq5qkm/"
+        },
+        "url": "https://www.homes.com/property/olivewood-indianapolis-in/9cs712fmq5qkm/",
+        "name": "2091 Olivewood Dr, Indianapolis, IN 46219"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 7,
+        "image": "https://imagescdn.homes.com/i2/udYpTo1ZJZCpTDYol1Xk4Jk-E3SG9inTepyEVp3Fp74/115/7936-timber-ridge-dr-indianapolis-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "989 - 1124",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "1 - 2",
+          "numberOfBathroomsTotal": 1,
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 625.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "7936 Timber Ridge Dr",
+            "addressLocality": "Indianapolis",
+            "addressRegion": "IN",
+            "postalCode": "46219",
+            "@id": "https://www.homes.com/property/parkhaven-apartments-indianapolis-in/25czvprm0r518/"
+          },
+          "@id": "https://www.homes.com/property/parkhaven-apartments-indianapolis-in/25czvprm0r518/"
+        },
+        "url": "https://www.homes.com/property/parkhaven-apartments-indianapolis-in/25czvprm0r518/",
+        "name": "7936 Timber Ridge Dr, Indianapolis, IN 46219"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 8,
+        "image": "https://imagescdn.homes.com/i2/ykO6OHkNQsjComEGeeCWcfbRnOOEE2IV7e8cxBKFj34/115/4958-dawn-dr-indianapolis-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "749 - 1225",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "0 - 2",
+          "numberOfBathroomsTotal": "1 - 2",
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 288.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4958 Dawn Dr",
+            "addressLocality": "Indianapolis",
+            "addressRegion": "IN",
+            "postalCode": "46268",
+            "@id": "https://www.homes.com/property/annhurst-apartments-indianapolis-in/3xq6f756nb2nv/"
+          },
+          "@id": "https://www.homes.com/property/annhurst-apartments-indianapolis-in/3xq6f756nb2nv/"
+        },
+        "url": "https://www.homes.com/property/annhurst-apartments-indianapolis-in/3xq6f756nb2nv/",
+        "name": "4958 Dawn Dr, Indianapolis, IN 46268"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 9,
+        "image": "https://imagescdn.homes.com/i2/hz0lk9spuFe7JJLd-Uixsa-zlrtCJqUAmiUvMBMBRBo/115/6018-n-college-ave-indianapolis-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 1241,
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": 2,
+          "numberOfBathroomsTotal": 1,
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 850.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "6018 N College Ave",
+            "addressLocality": "Indianapolis",
+            "addressRegion": "IN",
+            "postalCode": "46220",
+            "@id": "https://www.homes.com/property/broad-ripple-flats-indianapolis-in/mwmjfp4bknn02/"
+          },
+          "@id": "https://www.homes.com/property/broad-ripple-flats-indianapolis-in/mwmjfp4bknn02/"
+        },
+        "url": "https://www.homes.com/property/broad-ripple-flats-indianapolis-in/mwmjfp4bknn02/",
+        "name": "6018 N College Ave, Indianapolis, IN 46220"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 10,
+        "image": "https://imagescdn.homes.com/i2/CNTmmPM3M0CyVlpXXNr4MAq8Eh5LxbYYj-9qTgWiMYM/115/333-n-pennsylvania-st-indianapolis-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "1129 - 1549",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": 1,
+          "numberOfBathroomsTotal": 1,
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 542.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "333 N Pennsylvania St",
+            "addressLocality": "Indianapolis",
+            "addressRegion": "IN",
+            "postalCode": "46204",
+            "@id": "https://www.homes.com/property/333-penn-apartments-indianapolis-in/mrklyv5yhv205/"
+          },
+          "@id": "https://www.homes.com/property/333-penn-apartments-indianapolis-in/mrklyv5yhv205/"
+        },
+        "url": "https://www.homes.com/property/333-penn-apartments-indianapolis-in/mrklyv5yhv205/",
+        "name": "333 N Pennsylvania St, Indianapolis, IN 46204"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 11,
+        "image": "https://imagescdn.homes.com/i2/ySD8gSr5_M8mbIOcE9fNj69HB5zWkiLjmfK20Of9gZQ/115/1745-n-ritter-ave-indianapolis-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 840,
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": 1,
+          "numberOfBathroomsTotal": 1,
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 0.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1745 N Ritter Ave",
+            "addressLocality": "Indianapolis",
+            "addressRegion": "IN",
+            "postalCode": "46218",
+            "@id": "https://www.homes.com/property/1745-n-ritter-ave-indianapolis-in/y3bxbzd4rlhz4/"
+          },
+          "@id": "https://www.homes.com/property/1745-n-ritter-ave-indianapolis-in/y3bxbzd4rlhz4/"
+        },
+        "url": "https://www.homes.com/property/1745-n-ritter-ave-indianapolis-in/y3bxbzd4rlhz4/",
+        "name": "1745 N Ritter Ave, Indianapolis, IN 46218"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 12,
+        "image": "https://imagescdn.homes.com/i2/x1b0bo2HsD6e7lGtNEAjGheSAU6cAG1vCRpgHCmMc2c/115/3615-sherman-forest-dr-indianapolis-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "545 - 1090",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "0 - 4",
+          "numberOfBathroomsTotal": "1 - 2",
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 396.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "3615 Sherman Forest Dr",
+            "addressLocality": "Indianapolis",
+            "addressRegion": "IN",
+            "postalCode": "46205",
+            "@id": "https://www.homes.com/property/sherman-forest-indianapolis-in/negbs1rkwpv8s/"
+          },
+          "@id": "https://www.homes.com/property/sherman-forest-indianapolis-in/negbs1rkwpv8s/"
+        },
+        "url": "https://www.homes.com/property/sherman-forest-indianapolis-in/negbs1rkwpv8s/",
+        "name": "3615 Sherman Forest Dr, Indianapolis, IN 46205"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 13,
+        "image": "https://imagescdn.homes.com/i2/uS2fSMBOiu0hDKJKTMJrt5i6zvWm_ECbSC6zZcxk4TE/115/1225-dr-martin-luther-king-jr-st-indianapolis-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "1200 - 1580",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "1 - 2",
+          "numberOfBathroomsTotal": "1 - 2",
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 0.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1225 Dr Martin Luther King jr St",
+            "addressLocality": "Indianapolis",
+            "addressRegion": "IN",
+            "postalCode": "46202",
+            "@id": "https://www.homes.com/property/temple-lofts-indianapolis-in/9e0z9dzfdsywp/"
+          },
+          "@id": "https://www.homes.com/property/temple-lofts-indianapolis-in/9e0z9dzfdsywp/"
+        },
+        "url": "https://www.homes.com/property/temple-lofts-indianapolis-in/9e0z9dzfdsywp/",
+        "name": "1225 Dr Martin Luther King jr St, Indianapolis, IN 46202"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 14,
+        "image": "https://imagescdn.homes.com/i2/DxnQfVM8SQc3jS2LrsEFf5ZGjuXfBDbaEKkbzvdcGnc/115/919-broadway-st-indianapolis-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "995 - 1100",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": 1,
+          "numberOfBathroomsTotal": 1,
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 0.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "919 Broadway St",
+            "addressLocality": "Indianapolis",
+            "addressRegion": "IN",
+            "postalCode": "46202",
+            "@id": "https://www.homes.com/property/919-broadway-st-indianapolis-in/xqye4b65yv2mr/"
+          },
+          "@id": "https://www.homes.com/property/919-broadway-st-indianapolis-in/xqye4b65yv2mr/"
+        },
+        "url": "https://www.homes.com/property/919-broadway-st-indianapolis-in/xqye4b65yv2mr/",
+        "name": "919 Broadway St, Indianapolis, IN 46202"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 15,
+        "image": "https://imagescdn.homes.com/i2/V3yasrtU93dFxbxqvhAJd39p9mK2GdD_BSMoPu05P-Q/115/5549-rosewood-commons-dr-indianapolis-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "675 - 1207",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "0 - 2",
+          "numberOfBathroomsTotal": "1 - 2",
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 288.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "5549 Rosewood Commons Dr",
+            "addressLocality": "Indianapolis",
+            "addressRegion": "IN",
+            "postalCode": "46254",
+            "@id": "https://www.homes.com/property/rosewood-commons-indianapolis-in/137e0gv1nd69j/"
+          },
+          "@id": "https://www.homes.com/property/rosewood-commons-indianapolis-in/137e0gv1nd69j/"
+        },
+        "url": "https://www.homes.com/property/rosewood-commons-indianapolis-in/137e0gv1nd69j/",
+        "name": "5549 Rosewood Commons Dr, Indianapolis, IN 46254"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 16,
+        "image": "https://imagescdn.homes.com/i2/kX0g-lXzbkcw6uazp2ArgSyR7C_ICBKiVxPMeuEAvyk/115/920-alabama-st-indianapolis-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "833 - 1020",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": 1,
+          "numberOfBathroomsTotal": 1,
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 600.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "920 Alabama St",
+            "addressLocality": "Indianapolis",
+            "addressRegion": "IN",
+            "postalCode": "46202",
+            "@id": "https://www.homes.com/property/the-seminole-indianapolis-in/l2g9z8rqez2em/"
+          },
+          "@id": "https://www.homes.com/property/the-seminole-indianapolis-in/l2g9z8rqez2em/"
+        },
+        "url": "https://www.homes.com/property/the-seminole-indianapolis-in/l2g9z8rqez2em/",
+        "name": "920 Alabama St, Indianapolis, IN 46202"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 17,
+        "image": "https://imagescdn.homes.com/i2/yAZPXGb821zARKpCHUIxaTvQzp1qOcbbhdxwoRJdIlM/115/520-virginia-ave-indianapolis-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "1049 - 1819",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "0 - 2",
+          "numberOfBathroomsTotal": 1,
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 0.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "520 Virginia Ave",
+            "addressLocality": "Indianapolis",
+            "addressRegion": "IN",
+            "postalCode": "46203",
+            "@id": "https://www.homes.com/property/five-twenty-virginia-indianapolis-in/7d7157vnetz2m/"
+          },
+          "@id": "https://www.homes.com/property/five-twenty-virginia-indianapolis-in/7d7157vnetz2m/"
+        },
+        "url": "https://www.homes.com/property/five-twenty-virginia-indianapolis-in/7d7157vnetz2m/",
+        "name": "520 Virginia Ave, Indianapolis, IN 46203"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 18,
+        "image": "https://imagescdn.homes.com/i2/b13KSKgfZuMmXOe9KcrU9PnixauTsCH6WB67pFGm6Lg/115/6734-millside-dr-indianapolis-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "1000 - 1400",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "1 - 2",
+          "numberOfBathroomsTotal": 1,
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 640.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "6734 Millside Dr",
+            "addressLocality": "Indianapolis",
+            "addressRegion": "IN",
+            "postalCode": "46221",
+            "@id": "https://www.homes.com/property/home-place-senior-living-indianapolis-in/srg9bq96kdh5n/"
+          },
+          "@id": "https://www.homes.com/property/home-place-senior-living-indianapolis-in/srg9bq96kdh5n/"
+        },
+        "url": "https://www.homes.com/property/home-place-senior-living-indianapolis-in/srg9bq96kdh5n/",
+        "name": "6734 Millside Dr, Indianapolis, IN 46221"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 19,
+        "image": "https://imagescdn.homes.com/i2/Ti4DfflzZzXAAd8sHiIjRXeq3gQplEtlHVxI4s7_5P8/117/1304-n-delaware-st-indianapolis-in-primaryphoto.jpg?t=p&p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "605 - 922",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "0 - 1",
+          "numberOfBathroomsTotal": 1,
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 425.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1304 N Delaware St",
+            "addressLocality": "Indianapolis",
+            "addressRegion": "IN",
+            "postalCode": "46202",
+            "@id": "https://www.homes.com/property/indy-flats-indianapolis-in/ld880mhez4ppn/"
+          },
+          "@id": "https://www.homes.com/property/indy-flats-indianapolis-in/ld880mhez4ppn/"
+        },
+        "url": "https://www.homes.com/property/indy-flats-indianapolis-in/ld880mhez4ppn/",
+        "name": "1304 N Delaware St, Indianapolis, IN 46202"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 20,
+        "image": "https://imagescdn.homes.com/i2/GPOuYrOmnjYO6rPW9fnR2iT8cWLSTOf4oi0rPWGompY/115/1211-ginger-ct-indianapolis-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "705 - 1025",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "0 - 2",
+          "numberOfBathroomsTotal": "1 - 2",
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 288.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1211 Ginger Ct",
+            "addressLocality": "Indianapolis",
+            "addressRegion": "IN",
+            "postalCode": "46241",
+            "@id": "https://www.homes.com/property/ashgrove-apartments-indianapolis-in/q9kbft2d978zm/"
+          },
+          "@id": "https://www.homes.com/property/ashgrove-apartments-indianapolis-in/q9kbft2d978zm/"
+        },
+        "url": "https://www.homes.com/property/ashgrove-apartments-indianapolis-in/q9kbft2d978zm/",
+        "name": "1211 Ginger Ct, Indianapolis, IN 46241"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 21,
+        "image": "https://imagescdn.homes.com/i2/zM_FwCHxc2qSUklopayWIwdmYvlL11E1yWmf5JM3UTI/115/6580-e-county-line-rd-greenwood-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "1575 - 2060",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "1 - 3",
+          "numberOfBathroomsTotal": "1 - 2",
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 819.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "6580 E County Line Rd",
+            "addressLocality": "Greenwood",
+            "addressRegion": "IN",
+            "postalCode": "46143",
+            "@id": "https://www.homes.com/property/arlington-farms-greenwood-in/zz0dtnm8q1kzz/"
+          },
+          "@id": "https://www.homes.com/property/arlington-farms-greenwood-in/zz0dtnm8q1kzz/"
+        },
+        "url": "https://www.homes.com/property/arlington-farms-greenwood-in/zz0dtnm8q1kzz/",
+        "name": "6580 E County Line Rd, Greenwood, IN 46143"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 22,
+        "image": "https://imagescdn.homes.com/i2/_tca65KUtXW861hroLhb_SOI90m8Av_IDOTOewjaoaA/115/2425-albany-st-beech-grove-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "950 - 1125",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "1 - 2",
+          "numberOfBathroomsTotal": 1,
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 600.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "2425 Albany St",
+            "addressLocality": "Beech Grove",
+            "addressRegion": "IN",
+            "postalCode": "46107",
+            "@id": "https://www.homes.com/property/the-u-beech-grove-in/s14xnj8n1kmtn/"
+          },
+          "subjectof": [
+            {
+              "@type": "Event",
+              "url": "https://www.homes.com/property/the-u-beech-grove-in/s14xnj8n1kmtn/",
+              "name": "3D Virtual Tour: 2425 Albany St"
+            }
+          ],
+          "@id": "https://www.homes.com/property/the-u-beech-grove-in/s14xnj8n1kmtn/"
+        },
+        "url": "https://www.homes.com/property/the-u-beech-grove-in/s14xnj8n1kmtn/",
+        "name": "2425 Albany St, Beech Grove, IN 46107"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 23,
+        "image": "https://imagescdn.homes.com/i2/gG-AV9nmWY3hPqNEL4UocQ0WXlW0hWwUDhakD5hwjtk/115/921-parliament-place-greenwood-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "1085 - 1690",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "1 - 3",
+          "numberOfBathroomsTotal": "1 - 2",
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 621.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "921 Parliament Place",
+            "addressLocality": "Greenwood",
+            "addressRegion": "IN",
+            "postalCode": "46142",
+            "@id": "https://www.homes.com/property/westminster-apartments-greenwood-in/e7j574r7tffvs/"
+          },
+          "subjectof": [
+            {
+              "@type": "Event",
+              "url": "https://www.homes.com/property/westminster-apartments-greenwood-in/e7j574r7tffvs/",
+              "name": "3D Virtual Tour: 921 Parliament Place"
+            }
+          ],
+          "@id": "https://www.homes.com/property/westminster-apartments-greenwood-in/e7j574r7tffvs/"
+        },
+        "url": "https://www.homes.com/property/westminster-apartments-greenwood-in/e7j574r7tffvs/",
+        "name": "921 Parliament Place, Greenwood, IN 46142"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 24,
+        "image": "https://imagescdn.homes.com/i2/7pJnRflsE5t0GTBOgkVa-UvZJJCmBTq-O3_KOptysJ4/115/1525-n-main-st-speedway-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "1399 - 1799",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "1 - 2",
+          "numberOfBathroomsTotal": "1 - 2",
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 659.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1525 N Main St",
+            "addressLocality": "Speedway",
+            "addressRegion": "IN",
+            "postalCode": "46224",
+            "@id": "https://www.homes.com/property/wilshaw-speedway-in/td40bbfk4q73c/"
+          },
+          "subjectof": [
+            {
+              "@type": "Event",
+              "url": "https://www.homes.com/property/wilshaw-speedway-in/td40bbfk4q73c/",
+              "name": "3D Virtual Tour: 1525 N Main St"
+            }
+          ],
+          "@id": "https://www.homes.com/property/wilshaw-speedway-in/td40bbfk4q73c/"
+        },
+        "url": "https://www.homes.com/property/wilshaw-speedway-in/td40bbfk4q73c/",
+        "name": "1525 N Main St, Speedway, IN 46224"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 25,
+        "image": "https://imagescdn.homes.com/i2/AZpoMvqo-ik7ETFdKh4zcWgs431rwZiVT_nnR3zErig/115/2030-runaway-bay-dr-speedway-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "1320 - 2560",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "1 - 3",
+          "numberOfBathroomsTotal": "1 - 2",
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 822.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "2030 Runaway Bay Dr",
+            "addressLocality": "Speedway",
+            "addressRegion": "IN",
+            "postalCode": "46224",
+            "@id": "https://www.homes.com/property/runaway-bay-apartments-speedway-in/b3zfzk9htvm7d/"
+          },
+          "subjectof": [
+            {
+              "@type": "Event",
+              "url": "https://www.homes.com/property/runaway-bay-apartments-speedway-in/b3zfzk9htvm7d/",
+              "name": "3D Virtual Tour: 2030 Runaway Bay Dr"
+            }
+          ],
+          "@id": "https://www.homes.com/property/runaway-bay-apartments-speedway-in/b3zfzk9htvm7d/"
+        },
+        "url": "https://www.homes.com/property/runaway-bay-apartments-speedway-in/b3zfzk9htvm7d/",
+        "name": "2030 Runaway Bay Dr, Speedway, IN 46224"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 26,
+        "image": "https://imagescdn.homes.com/i2/bVRooPTJE6Vs5YUOTUHvSAB2KioFnwkbYG14yD1P95o/115/147-diplomat-ct-beech-grove-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "954 - 1330",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "1 - 4",
+          "numberOfBathroomsTotal": "1 - 2",
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 750.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "147 Diplomat Ct",
+            "addressLocality": "Beech Grove",
+            "addressRegion": "IN",
+            "postalCode": "46107",
+            "@id": "https://www.homes.com/property/beech-meadow-apartments-beech-grove-in/s4c2n2ghggttn/"
+          },
+          "subjectof": [
+            {
+              "@type": "Event",
+              "url": "https://www.homes.com/property/beech-meadow-apartments-beech-grove-in/s4c2n2ghggttn/",
+              "name": "3D Virtual Tour: 147 Diplomat Ct"
+            }
+          ],
+          "@id": "https://www.homes.com/property/beech-meadow-apartments-beech-grove-in/s4c2n2ghggttn/"
+        },
+        "url": "https://www.homes.com/property/beech-meadow-apartments-beech-grove-in/s4c2n2ghggttn/",
+        "name": "147 Diplomat Ct, Beech Grove, IN 46107"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 27,
+        "image": "https://imagescdn.homes.com/i2/busJBOlxcQ9qgasBEUA8sMn5aS-9v794UJO0MFz6Nsk/115/2202-fair-oaks-dr-speedway-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "816 - 1865",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "1 - 2",
+          "numberOfBathroomsTotal": 1,
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 571.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "2202 Fair Oaks Dr",
+            "addressLocality": "Speedway",
+            "addressRegion": "IN",
+            "postalCode": "46224",
+            "@id": "https://www.homes.com/property/the-legend-at-speedway-speedway-in/ycjqs99ew8q6c/"
+          },
+          "subjectof": [
+            {
+              "@type": "Event",
+              "url": "https://www.homes.com/property/the-legend-at-speedway-speedway-in/ycjqs99ew8q6c/",
+              "name": "3D Virtual Tour: 2202 Fair Oaks Dr"
+            }
+          ],
+          "@id": "https://www.homes.com/property/the-legend-at-speedway-speedway-in/ycjqs99ew8q6c/"
+        },
+        "url": "https://www.homes.com/property/the-legend-at-speedway-speedway-in/ycjqs99ew8q6c/",
+        "name": "2202 Fair Oaks Dr, Speedway, IN 46224"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 28,
+        "image": "https://imagescdn.homes.com/i2/1fAWKS4ZBog9ToQzz8vC3HhgQwhVIw1NWGPa7x8dWmc/115/1815-foyt-dr-speedway-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "703 - 1198",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "1 - 2",
+          "numberOfBathroomsTotal": "1 - 2",
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 470.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1815 Foyt Dr",
+            "addressLocality": "Speedway",
+            "addressRegion": "IN",
+            "postalCode": "46224",
+            "@id": "https://www.homes.com/property/stanford-court-speedway-in/pgqh6cj4t40kb/"
+          },
+          "subjectof": [
+            {
+              "@type": "Event",
+              "url": "https://www.homes.com/property/stanford-court-speedway-in/pgqh6cj4t40kb/",
+              "name": "3D Virtual Tour: 1815 Foyt Dr"
+            }
+          ],
+          "@id": "https://www.homes.com/property/stanford-court-speedway-in/pgqh6cj4t40kb/"
+        },
+        "url": "https://www.homes.com/property/stanford-court-speedway-in/pgqh6cj4t40kb/",
+        "name": "1815 Foyt Dr, Speedway, IN 46224"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 29,
+        "image": "https://imagescdn.homes.com/i2/9ASSkO4oJ-b2GbkjGYOchCMCaKQzrQ2tveNrxT3MwNs/115/6363-hollister-dr-speedway-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "787 - 1400",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "1 - 3",
+          "numberOfBathroomsTotal": "1 - 2",
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 698.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "6363 Hollister Dr",
+            "addressLocality": "Speedway",
+            "addressRegion": "IN",
+            "postalCode": "46224",
+            "@id": "https://www.homes.com/property/brickyard-flats-speedway-in/2pxhpp2rc84l4/"
+          },
+          "subjectof": [
+            {
+              "@type": "Event",
+              "url": "https://www.homes.com/property/brickyard-flats-speedway-in/2pxhpp2rc84l4/",
+              "name": "3D Virtual Tour: 6363 Hollister Dr"
+            }
+          ],
+          "@id": "https://www.homes.com/property/brickyard-flats-speedway-in/2pxhpp2rc84l4/"
+        },
+        "url": "https://www.homes.com/property/brickyard-flats-speedway-in/2pxhpp2rc84l4/",
+        "name": "6363 Hollister Dr, Speedway, IN 46224"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 30,
+        "image": "https://imagescdn.homes.com/i2/nTmMWw84H4D_jQV4sGV8cL4d4q-Da8NLwsvkVPMTOlA/115/4880-willow-glen-dr-beech-grove-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "964 - 1595",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "1 - 3",
+          "numberOfBathroomsTotal": 1,
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 584.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4880 Willow Glen Dr",
+            "addressLocality": "Beech Grove",
+            "addressRegion": "IN",
+            "postalCode": "46107",
+            "@id": "https://www.homes.com/property/willow-glen-south-beech-grove-in/6rc4j0qj9nem6/"
+          },
+          "@id": "https://www.homes.com/property/willow-glen-south-beech-grove-in/6rc4j0qj9nem6/"
+        },
+        "url": "https://www.homes.com/property/willow-glen-south-beech-grove-in/6rc4j0qj9nem6/",
+        "name": "4880 Willow Glen Dr, Beech Grove, IN 46107"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 31,
+        "image": "https://imagescdn.homes.com/i2/r1xDY73p8onsCEg-ykaVLYrUmuA1bCMA1DMWbgJnIy4/117/4929-red-robin-dr-beech-grove-in-primaryphoto.jpg?t=p&p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "1052 - 1159",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "1 - 2",
+          "numberOfBathroomsTotal": 1,
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 650.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4929 Red Robin Dr",
+            "addressLocality": "Beech Grove",
+            "addressRegion": "IN",
+            "postalCode": "46107",
+            "@id": "https://www.homes.com/property/the-brixton-beech-grove-in/x81gln86rc0kl/"
+          },
+          "subjectof": [
+            {
+              "@type": "Event",
+              "url": "https://www.homes.com/property/the-brixton-beech-grove-in/x81gln86rc0kl/",
+              "name": "3D Virtual Tour: 4929 Red Robin Dr"
+            }
+          ],
+          "@id": "https://www.homes.com/property/the-brixton-beech-grove-in/x81gln86rc0kl/"
+        },
+        "url": "https://www.homes.com/property/the-brixton-beech-grove-in/x81gln86rc0kl/",
+        "name": "4929 Red Robin Dr, Beech Grove, IN 46107"
+      },
+      {
+        "@type": "RealEstateListing",
+        "position": 32,
+        "image": "https://imagescdn.homes.com/i2/JwfCAKFKtu2kQ8xMV-xyVF7XM8aBKVXl6fjLOT7IceI/115/240-grovewood-place-beech-grove-in-primaryphoto.jpg?p=1",
+        "potentialAction": {
+          "@type": "RentAction"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "950 - 1149",
+          "priceCurrency": "USD"
+        },
+        "mainEntity": {
+          "@type": "Apartment",
+          "numberOfBedrooms": "1 - 2",
+          "numberOfBathroomsTotal": 1,
+          "floorSize": {
+            "@type": "QuantitativeValue",
+            "value": 800.0,
+            "unitCode": "FTK"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "240 Grovewood Place",
+            "addressLocality": "Beech Grove",
+            "addressRegion": "IN",
+            "postalCode": "46107",
+            "@id": "https://www.homes.com/property/beech-tree-glen-apartments-beech-grove-in/fdtshr6bynxlf/"
+          },
+          "@id": "https://www.homes.com/property/beech-tree-glen-apartments-beech-grove-in/fdtshr6bynxlf/"
+        },
+        "url": "https://www.homes.com/property/beech-tree-glen-apartments-beech-grove-in/fdtshr6bynxlf/",
+        "name": "240 Grovewood Place, Beech Grove, IN 46107"
+      }
+    ],
+    "itemListOrder": "https://schema.org/ItemListUnordered"
+  },
+  "name": "Indianapolis IN Homes for Rent - pg 15 - Homes.com",
+  "@id": "https://www.homes.com/indianapolis-in/homes-for-rent/p15/"
+}
